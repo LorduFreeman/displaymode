@@ -15,6 +15,20 @@ Hooks.on('ready', () => {
             $('#hotbar').show();
         }
     });
+    $('#logo').contextmenu(ev => {
+        window.hideUI = !window.hideUI;
+        if (window.hideUI) {
+            $('#navigation').hide();
+            $('#controls').hide();
+            $('#players').hide();
+            $('#hotbar').hide();
+        } else {
+            $('#navigation').show();
+            $('#controls').show();
+            $('#players').show();
+            $('#hotbar').show();
+        }
+    });	
 });
 
 Hooks.on('renderSceneNavigation', (app,html) => {

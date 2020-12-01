@@ -10,6 +10,7 @@ A module for Foundry VTT to hide all those pesky display elements you don't need
 
 ## Usage
 Just click the Anvil Icon in the topright corner of the Application
+
 Right-clicking the Anvil Icon hides all elements except for the sidebar
 
 ## Contribution

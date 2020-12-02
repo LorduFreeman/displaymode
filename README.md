@@ -9,13 +9,14 @@ A module for Foundry VTT to hide all those pesky display elements you don't need
 2. Enable the Module in your Worlds Module Settings
 
 
-3. NEW: Download my changed displaymode.js and overwrite the original one.
+### 3. NEW: Download my changed displaymode.js and overwrite the original one.
 
 
 ## Usage
 Just click the Anvil Icon in the topright corner of the Application
 
-Right-clicking the Anvil Icon hides all elements except for the sidebar. Very useful when using Theatre Inserts for example or any other module that depends on  chat but takes a lot of screen space.
+### NEW:
+Right-clicking the Anvil Icon hides all elements except for the sidebar. Very useful when using Theatre Inserts or any other module that depends on chat but takes up a lot of screen space.
 
 ![preview](hide.png?raw=true)
 ## Contribution

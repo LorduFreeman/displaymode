@@ -9,6 +9,9 @@ A module for Foundry VTT to hide all those pesky display elements you don't need
 2. Enable the Module in your Worlds Module Settings
 
 
+3. NEW: Download my changed displaymode.js and overwrite the original one.
+
+
 ## Usage
 Just click the Anvil Icon in the topright corner of the Application
 
